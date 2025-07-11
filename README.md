@@ -33,10 +33,13 @@ I build tools that help learners, freelancers & small cybersecurity teams.
 
 ---
 
-### 🔗 Connect With Me
-- 📧 Email: khusuhacks@gmail.com  
-- 📦 Gumroad Store: https://khusuhacks.gumroad.com  
-- 📺 YouTube: [Coming Soon]
+## 🔗 Contact & Links
+
+🔒 *Khusu Hacks Toolkit*  
+India’s No.1 Ethical Hacking Python GUI Toolkit  
+📧 Email: khusuhacks@gmail.com  
+🌐 Gumroad: [khusuhacks.gumroad.com](https://khusuhacks.gumroad.com)  
+📂 GitHub: [github.com/khusu143/khusuhacks-toolkit](https://github.com/khusu143/khusuhacks-toolkit)
 
 ---
 
