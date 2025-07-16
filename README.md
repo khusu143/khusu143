@@ -1,47 +1,87 @@
-<h1 align="center">🚀 Khusu Hacks Toolkit</h1>
-<p align="center">India's No.1 Ethical Hacking & Automation Toolkit 🧠💻</p>
+# 🔧 KhusuHacks Toolkit
 
-<p align="center">
-  <a href="https://github.com/khusu143/khusuhacks-toolkit">
-    <img src="https://img.shields.io/github/stars/khusu143/khusuhacks-toolkit?style=social" alt="GitHub Repo stars">
-  </a>
-  <a href="https://khusuhacks.gumroad.com">
-    <img src="https://img.shields.io/badge/Gumroad-Download-blue?logo=gumroad&logoColor=white">
-  </a>
-</p>
+Welcome to *KhusuHacks, a powerful private toolkit featuring 70+ Python-based tools for automation, ethical hacking, information gathering, file analysis, and system utilities — built under **TS Digital India*.
+
+> ⚠ For personal use, testing, learning, and ethical research only.
 
 ---
 
-### 🧰 What's Included?
-✅ 50+ Python Hacking Tools  
-✅ One-click GUI Launcher (.exe)  
-✅ Full Offline ZIP Package  
-✅ Hindi Guide PDF Included  
-✅ Easy for Beginners + Freelancers  
+## 📦 Tool Categories & Names
+
+Below is the complete list of tools included in the khusuhacks project:
+
+### 📨 Email & Phone Tools
+- Email Extractor (from text, files, websites)
+- Phone Number Extractor
+- Email Verifier (syntax + regex)
+- Bulk Email Scraper
+
+### 📁 File Tools
+- PDF Metadata Extractor
+- PDF Password Remover
+- File Organizer Tool
+- File Renamer (Batch)
+- File Copier/Backup Tool
+
+### 🔍 Information Gathering
+- Whois Lookup
+- DNS Lookup
+- IP Tracker
+- User Agent Finder
+- Header Analyzer
+- URL Analyzer
+
+### 🛡 Ethical Hacking Tools
+- Port Scanner
+- Subdomain Scanner
+- Admin Panel Finder
+- Directory Brute Forcer
+- Hash Cracker (MD5, SHA1)
+
+### 🌐 Web Tools
+- Website Cloner
+- Source Code Downloader
+- HTTP Status Checker
+- Broken Link Checker
+
+### 🔐 Security & Privacy
+- Password Generator
+- Secure Password Saver (local)
+- Steganography (Image/Text)
+- VPN Checker
+- Proxy Grabber
+
+### 🧪 OSINT / Social Tools
+- Instagram Info Fetcher
+- Username Availability Checker
+- Fake Identity Generator
+- Image EXIF Extractor
+- Face Age Estimator (offline)
+
+### ⚙ Utility Scripts
+- Internet Speed Tester
+- QR Code Generator/Reader
+- Barcode Scanner
+- System Info Tool
+- Clipboard Manager
+- Auto Typer
+- Timer / Stopwatch Script
 
 ---
 
-### 📦 Downloads
-- 🔗 *Toolkit:* [Gumroad Download ₹199](https://khusuhacks.gumroad.com)
-- 🌐 *GitHub Repo:* [View on GitHub](https://github.com/khusu143/khusuhacks-toolkit)
+## ▶ How to Run
 
----
+```bash
+git clone https://github.com/yourusername/khusuhacks.git
+cd khusuhacks
 
-### 🧑‍💻 About Me
-I'm Khusu143 — a passionate Ethical Hacker & Python Automation Developer from India 🇮🇳.  
-I build tools that help learners, freelancers & small cybersecurity teams.
+# (Optional) Activate venv
+python3 -m venv venv && source venv/bin/activate
 
----
+# Install common dependencies (if no requirements.txt)
+pip install requests beautifulsoup4 tqdm gdown
 
-## 🔗 Contact & Links
-
-🔒 *Khusu Hacks Toolkit*  
-India’s No.1 Ethical Hacking Python GUI Toolkit  
-📧 Email: khusuhacks@gmail.com  
-🌐 Gumroad: [khusuhacks.gumroad.com](https://khusuhacks.gumroad.com)  
-📂 GitHub: [github.com/khusu143/khusuhacks-toolkit](https://github.com/khusu143/khusuhacks-toolkit)
-
----
-
-⭐ Star this repo & follow for more cool tools!
-
+# Run GUI or CLI tool
+python3 main_gui_android.py
+# or
+python3 emailextractor.py
